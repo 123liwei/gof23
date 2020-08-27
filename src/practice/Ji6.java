@@ -1,6 +1,4 @@
-package concurrency;
-
-import org.omg.PortableInterceptor.INACTIVE;
+package practice;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package concurrency;
+package practice;
 
 public class Test226 {
 
